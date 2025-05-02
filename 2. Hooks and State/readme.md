@@ -102,7 +102,7 @@ function UserForm() {
 * Hooks are **only usable in functional components** or **custom hooks**.
 
 
-  [⬅️ Previous](https://github.com/your-username/your-repo/blob/main/previous-page.md) | [Next ➡️](https://github.com/your-username/your-repo/blob/main/next-page.md)
+  [⬅️ Previous]([https://github.com/your-username/your-repo/blob/main/previous-page.md](https://github.com/Mostafa-Shariare/ReactLearnig-and-Notes/blob/main/1.%20Components%2C%20JSX%2C%20Props/readme.md)) | [Next ➡️](https://github.com/your-username/your-repo/blob/main/next-page.md)
 
 
 
