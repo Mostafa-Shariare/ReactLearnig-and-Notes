@@ -249,3 +249,7 @@ export default App;
 | **Props**     | Data passed to a component |
 | **JSX**       | HTML-like syntax inside JS |
 
+
+
+
+[Next⏭️](https://github.com/Mostafa-Shariare/ReactLearnig-and-Notes/blob/main/README.md)
